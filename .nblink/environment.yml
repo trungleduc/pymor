@@ -6,4 +6,4 @@ dependencies:
   - pymor
   - xeus-python
   - pip:
-      ptjnp
+    - ptjnp
