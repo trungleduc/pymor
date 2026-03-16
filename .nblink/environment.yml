@@ -4,5 +4,6 @@ channels:
   - https://prefix.dev/conda-forge
 dependencies:
   - pymor
+  - xeus-python
   - pip:
       ptjnp
